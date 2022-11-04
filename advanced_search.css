@@ -1,0 +1,47 @@
+.links {
+    text-align: right;
+}
+
+body {
+    font-family: arial,sans-serif;
+}
+
+h3 {
+    font-size: 16px;
+}
+
+#text {
+    float:left; 
+    display:inline; 
+    width: 20%;
+    padding: 6px;
+    font-size: 13px;
+}
+
+
+#input {
+    margin-bottom: 20px;
+    
+}
+
+#input > input {
+    padding: 7px;
+    width: 600px;
+    height: 15px;
+    border: 1px solid #d9d9d9;
+    border-radius: 1px;
+}
+
+
+#submit_button {
+    border: 1px solid #3079ed;
+    border-radius: 2px;
+    width: 121px;
+    height: 30px;
+    font-size: 11px;
+    text-align: center;
+    margin-left: 760px;
+    padding: 9px;
+    background-color: #4d90fe;
+    color: white;
+}
